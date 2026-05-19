@@ -1,2 +1,2 @@
 # zuseos
-A memory predictor.
+A memory predictor and an artificial intelligence.
