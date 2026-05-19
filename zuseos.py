@@ -1,5 +1,6 @@
 #zuseos.py
 #A memory predictor
+#by Neo
 #A generalized artificial intelligence algorithm created to supersede artificial neural networks by Arsene Denisov, GNU GPL license
 #myth of Er Dao Tao Kali Yuga
 
