@@ -1,4 +1,4 @@
-//ZuseOS, a generalized cognitive, psychoanalytic, and evolutionary psychological artificial intelligence with memory and spreading activation by Arsene Denisov
+//ZuseOS, zuseos.c, a generalized cognitive, psychoanalytic, and evolutionary psychological artificial intelligence with memory and spreading activation by Arsene Denisov
 //unary
 //alpha version, GNU GPL license
 //Dao Tao trou de rev myth of Er yuga
