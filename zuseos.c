@@ -108,7 +108,7 @@ int universal_wave_function()
 int main()
 {
     build_adjacency_array();
-    printf("ZuseOS, generalized psychoanalytic and cognitive artificial intelligence alpha version by Arsene Denisov\n");
+    printf("ZuseOS, generalized cognitive, psychoanalytic and evolutionary psychology artificial intelligence alpha version by Arsene Denisov\n");
     system("pause");
     return 0;
 }
