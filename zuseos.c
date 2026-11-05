@@ -1,4 +1,4 @@
-//ZuseOS, zuseos.c, a generalized cognitive, psychoanalytic, and evolutionary psychological artificial intelligence with memory and spreading activation by Arsene Denisov
+//ZuseOS, zuseos.c, a generalized cognitive artificial intelligence with memory and spreading activation by Arsene Denisov, a hacker
 //unary
 //alpha version, GNU GPL license
 //Dao Tao trou de rev myth of Er yuga
@@ -19,11 +19,20 @@ char text[] = "This is the text to train the artificial intelligence on";
 int* memory;
 int** memoryPermutationArray;
 int* entropyAndExtropyArray;
+int** adjacencyMatrix;
+int** permutatedPrimeVectorSet;
+char **verticeArray;
+
 
 
 int prime_generator()
 {
+    return 0;
+}
 
+int generate_permutated_prime_vector_set()
+{
+    return 0;
 }
 
 int memory_predictor()
@@ -44,7 +53,11 @@ int build_adjacency_array()
         i++;
     }
 
-    int** adjacencyMatrix = (int**)malloc(sizeof(int)*pow(i,2));
+
+    //allocate the memory with malloc to the vertice array and access it from the matrix array
+
+
+    adjacencyMatrix = (int**)malloc(sizeof(int)*pow(i,2));
 
     int i2;
     int i3;
@@ -52,7 +65,7 @@ int build_adjacency_array()
     {
         for (i3 = 0; i3 < i; i3++)
         {
-            adjacencyMatrix[i2][i3]; //simply eliminate duplicate matrix elements by searchings for them with strcmp
+            adjacencyMatrix[i2][i3]; //simply eliminate duplicate matrix elements by searchings for them with strcmp, that is the saints are the royal blood and the communist party
 
             printf("%d\n", i2);
             printf("%d\n", i3);
@@ -108,7 +121,7 @@ int universal_wave_function()
 int main()
 {
     build_adjacency_array();
-    printf("ZuseOS, generalized cognitive, psychoanalytic and evolutionary psychology artificial intelligence alpha version by Arsene Denisov\n");
+    printf("ZuseOS, generalized cognitive artificial intelligence alpha version by Arsene Denisov\n");
     system("pause");
     return 0;
 }
