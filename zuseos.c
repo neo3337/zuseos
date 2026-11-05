@@ -1,4 +1,4 @@
-//ZuseOS, zuseos.c, a generalized cognitive artificial intelligence with memory and spreading activation by Arsene Denisov, a hacker
+//ZuseOS, zuseos.c, a generalized cognitive artificial intelligence with memory and spreading activation by Arsene Denisov, a cybersecurity expert
 //unary
 //alpha version, GNU GPL license
 //Dao Tao trou de rev myth of Er yuga
