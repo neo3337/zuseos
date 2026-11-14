@@ -109,6 +109,10 @@ int* first_n_prime_generator(int n)
     return 0;
 }
 
+int n_rotation_rotary_enigma()
+{
+    return 0;
+}
 
 int generate_permutated_prime_vector_set()
 {
